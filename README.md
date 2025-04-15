@@ -1,2 +1,1 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=driversline&show_icons=true&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7&hide_border=true)](https://github.com/driversline)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driversline&layout=compact&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&hide_border=true&card_width=475)](https://github.com/driversline)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driversline&layout=compact&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&hide_border=true)](https://github.com/driversline)
