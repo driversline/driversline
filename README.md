@@ -1,1 +1,1 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=darateria&color=blue&style=for-the-badge)](https://github.com/driversline)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=driversline&theme=dark)](https://github.com/driversline)
